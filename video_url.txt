@@ -1,0 +1,5 @@
+Player URL:
+https://sentocloud.github.io/player/?list=https://raw.githubusercontent.com/sentocloud/de6b7f86ce2884a5/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/sentocloud/de6b7f86ce2884a5/refs/heads/master/github_master.m3u8
